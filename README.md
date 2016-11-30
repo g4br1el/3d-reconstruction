@@ -7,7 +7,7 @@
       
 
 ## Usage example Ubuntu
-1. start the Programm in the command line with the comand. ./[Program name] [left img] [right img] [intrinsic yml] [extrinsic yml]
+1. start the Programm in the command line with the comand: ./[Program name] [left img] [right img] [intrinsic yml] [extrinsic yml]
       e.g. ./Programm img/left.png img/right.png yml/intrinsic.yml yml/extrinsic.yml  
 2. Let`s go!
 
